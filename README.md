@@ -1,4 +1,4 @@
-Customer Management App (MEAN Stack)
+Customer Management App (MEAN Stack used)
 This is a Full-Stack Customer Management Application built using the MEAN stack (MongoDB, Express.js, Angular, and Node.js). The app allows users to Create, Read, Update, and Delete (CRUD) customer records efficiently.
 
 🚀 Tech Stack
